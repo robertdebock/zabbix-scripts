@@ -1,3 +1,3 @@
 language: bash
 script:
-    - bash echo "no tests implemented."
+    -  echo "no tests implemented."
