@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # A script to report all open ports on a host. Requires the package "nmap" to be installed.
 
